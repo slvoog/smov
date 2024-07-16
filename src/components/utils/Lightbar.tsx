@@ -153,7 +153,7 @@ function ParticlesCanvas() {
     let imageParticleCount = particleCount;
 
     switch (true) {
-      case (month === 11 && day >= 24 && day <= 26):
+      case month === 11 && day >= 24 && day <= 26:
         imageOverride = [
           {
             image: "/lightbar-images/snowflake.svg",
@@ -167,7 +167,7 @@ function ParticlesCanvas() {
         imageParticleCount = particleCount * 0.1;
         break;
 
-      case (month === 9 && day >= 29 && day <= 31):
+      case month === 9 && day >= 29 && day <= 31:
         imageOverride = [
           {
             image: "/lightbar-images/ghost.png",
