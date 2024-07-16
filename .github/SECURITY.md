@@ -2,9 +2,4 @@
 
 ## Supported Versions
 
-The latest version of sudo-flix is the only version that is supported, as it is the only version that is being actively developed.
-
-## Reporting a Vulnerability
-
-You can contact the sudo-flix maintainers to report a vulnerability:
- - Report the vulnerability in the [Discord](https://docs.sudo-flix.lol/links/discord).
+The latest version of 𝓯𝓻𝓮𝓪𝓴𝔂flix is the only version that is supported, as it is the only version that is being actively developed.

@@ -1,5 +1,5 @@
 # 𝓯𝓻𝓮𝓪𝓴𝔂flix
-[![FreakyFlix Image](.github/Freakyflix.png)]()  
+[![FreakyFlix Image](.github/Freakyflix.png)]()
 
 **I *do not* endorse piracy of any kind I simply enjoy programming.**
 **Creds to [sussy-code](https://github.com/sussy-code) team for the original project.**
@@ -8,13 +8,13 @@
 | Service        | Link                                                             | Source Code                                              |
 |----------------|------------------------------------------------------------------|----------------------------------------------------------|
 | Extension      | [𝓯𝓻𝓮𝓪𝓴𝔂extension](https://sussy-code.github.io/docs/extension)         | [source code](https://github.com/sussy-code/browser-ext) |
-| Proxy          | 𝓯𝓻𝓮𝓪𝓴𝔂proxy                  | [source code](https://github.com/slvoog/freaky-proxy)  |             
+| Proxy          | 𝓯𝓻𝓮𝓪𝓴𝔂proxy                  | [source code](https://github.com/slvoog/freaky-proxy)  |
 | Backend        | [sudo-backend](https://backend.sudo-flix.lol)                    | [source code](https://github.com/sussy-code/backend)     |
-| Frontend       | [𝓯𝓻𝓮𝓪𝓴𝔂flix](https://sudo-flix.lol), [2](https://flix.kanded.xyz) | [source code](https://github.com/slvoog/smov)        |
+| Frontend       | [𝓯𝓻𝓮𝓪𝓴𝔂flix](https://fflx.pages.dev), [2](https://flix.kanded.xyz) | [source code](https://github.com/slvoog/smov)        |
 
 
 ## Running Locally
-Type the following commands into your terminal / command line to run Sudo-Flix locally
+Type the following commands into your terminal / command line to run 𝓯𝓻𝓮𝓪𝓴𝔂flix locally
 ```bash
 git clone https://github.com/slvoog/smov.git
 cd smov
@@ -34,6 +34,6 @@ git checkout <YOUR_MAIN_BRANCH>  # Most likely this would be `origin/main`
 git merge upstream/main
 # * Fix any conflicts present during merge *
 git add .  # Add all changes made during merge and conflict fixing
-git commit -m "Update sudo-flix instance (merge upstream/main)"
+git commit -m "Update freakyflix instance (merge upstream/main)"
 git push  # Push to YOUR repository
 ```

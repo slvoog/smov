@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "sudo-flix là một ứng dụng web tìm kiếm các nguồn truyền phát trực tuyến trên Internet. Nhóm phát triển ứng dụng này nhắm đến một cách dễ dàng hơn trong việc tiêu thụ nội dung.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix là một ứng dụng web tìm kiếm các nguồn truyền phát trực tuyến trên Internet. Nhóm phát triển ứng dụng này nhắm đến một cách dễ dàng hơn trong việc tiêu thụ nội dung.",
     "faqTitle": "Các câu hỏi thường gặp",
     "q1": {
-      "body": "sudo-flix không lưu trữ bất kì nội dung nào. Khi bạn chọn xem một nội dung nào đó, ứng dụng sẽ tìm kiếm nội dung đó trên Internet (Khi nội dung tải và trong tab 'nguồn video' bạn sẽ tìm thấy nguồn đang được dùng). Nội dung không bao giờ được tải lên trên sudo-flix, mọi thứ đều được tìm kiếm thông qua phương thức này.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix không lưu trữ bất kì nội dung nào. Khi bạn chọn xem một nội dung nào đó, ứng dụng sẽ tìm kiếm nội dung đó trên Internet (Khi nội dung tải và trong tab 'nguồn video' bạn sẽ tìm thấy nguồn đang được dùng). Nội dung không bao giờ được tải lên trên 𝓯𝓻𝓮𝓪𝓴𝔂flix, mọi thứ đều được tìm kiếm thông qua phương thức này.",
       "title": "Nội dung đến từ đâu?"
     },
     "q2": {
-      "body": "Việc yêu cầu thêm một chương trình truyền hình hoặc phim là điều bất khả thi bởi vì sudo-flix không quản lý bất kỳ nội dung nào. Tất cả nội dung được truyền thông qua những nguồn trên internet.",
+      "body": "Việc yêu cầu thêm một chương trình truyền hình hoặc phim là điều bất khả thi bởi vì 𝓯𝓻𝓮𝓪𝓴𝔂flix không quản lý bất kỳ nội dung nào. Tất cả nội dung được truyền thông qua những nguồn trên internet.",
       "title": "Tôi có thể yêu cầu thêm một chương trình truyền hình hoặc phim ở đâu?"
     },
     "q3": {
       "body": "Các kết quả tìm kiếm được cung cấp bởi The Movie Database (TMDB) và hiện lên bất kể các nguồn của trang thực sự có lưu trữ nội dung đó hay không.",
       "title": "Tại sao kết quả tìm kiếm hiển thị chương trình truyền hình hoặc phim nhưng tôi không thể xem nó?"
     },
-    "title": "Về sudo-flix"
+    "title": "Về 𝓯𝓻𝓮𝓪𝓴𝔂flix"
   },
   "actions": {
     "copied": "Đã sao chép",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Tuyên bố miễn trừ trách nhiệm",
-      "disclaimerText": "sudo-flix không lưu trữ bất kì file nào, nó chỉ đến những đường dẫn của các dịch vụ bên thứ ba. Bất kỳ vấn đề nào về pháp lý nên được đưa đến chủ sỡ hữu của file hoặc những nhà cung cấp đó. sudo-flix hoàn toàn không chịu trách nhiệm cho bất kỳ nội dung nào được chiếu từ các nhà cung cấp."
+      "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix không lưu trữ bất kì file nào, nó chỉ đến những đường dẫn của các dịch vụ bên thứ ba. Bất kỳ vấn đề nào về pháp lý nên được đưa đến chủ sỡ hữu của file hoặc những nhà cung cấp đó. 𝓯𝓻𝓮𝓪𝓴𝔂flix hoàn toàn không chịu trách nhiệm cho bất kỳ nội dung nào được chiếu từ các nhà cung cấp."
     },
     "links": {
       "discord": "Discord",
@@ -90,13 +90,13 @@
     "tagline": "Xem các chương trình và phim yêu thích của bạn với ứng dụng phát trực tuyến nguồn mở này."
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
     "pages": {
       "about": "Thông tin",
       "dmca": "DMCA",
       "login": "Đăng nhập",
       "onboarding": "Cài đặt",
-      "pagetitle": "{{title}} - sudo-flix",
+      "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
       "register": "Đăng ký",
       "settings": "Cài đặt"
     }

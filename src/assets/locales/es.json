@@ -1,20 +1,20 @@
 {
     "about": {
-        "description": "sudo-flix es una aplicación web que busca transmisiones en internet. El equipo tiene como objetivo un enfoque principalmente minimalista para consumir contenido.",
+        "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix es una aplicación web que busca transmisiones en internet. El equipo tiene como objetivo un enfoque principalmente minimalista para consumir contenido.",
         "faqTitle": "Preguntas frecuentes",
         "q1": {
-            "body": "sudo-flix no aloja ningún contenido. Cuando haces clic en algo para ver, se busca en internet el medio seleccionado (En la pantalla de carga y en la pestaña 'fuentes de vídeo' puedes ver qué fuente estás utilizando). El contenido nunca se carga en sudo-flix, todo se realiza a través de este mecanismo de búsqueda.",
+            "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix no aloja ningún contenido. Cuando haces clic en algo para ver, se busca en internet el medio seleccionado (En la pantalla de carga y en la pestaña 'fuentes de vídeo' puedes ver qué fuente estás utilizando). El contenido nunca se carga en 𝓯𝓻𝓮𝓪𝓴𝔂flix, todo se realiza a través de este mecanismo de búsqueda.",
             "title": "¿De dónde proviene el contenido?"
         },
         "q2": {
-            "body": "No es posible solicitar una serie o película, sudo-flix no gestiona ningún contenido. Todo el contenido se ve a través de fuentes en internet.",
+            "body": "No es posible solicitar una serie o película, 𝓯𝓻𝓮𝓪𝓴𝔂flix no gestiona ningún contenido. Todo el contenido se ve a través de fuentes en internet.",
             "title": "¿Dónde puedo solicitar una serie o película?"
         },
         "q3": {
             "body": "Nuestros resultados de búsqueda están alimentados por The Movie Database (TMDB) y se muestran independientemente de si nuestras fuentes realmente tienen el contenido.",
             "title": "Los resultados de búsqueda muestran la serie o película, ¿Por qué no puedo reproducirla?"
         },
-        "title": "Acerca de sudo-flix"
+        "title": "Acerca de 𝓯𝓻𝓮𝓪𝓴𝔂flix"
     },
     "actions": {
         "copied": "Copiado",
@@ -82,7 +82,7 @@
     "footer": {
         "legal": {
             "disclaimer": "Descargo de responsabilidad",
-            "disclaimerText": "sudo-flix no aloja ningún archivo, simplemente enlaza a servicios de terceros. Los problemas legales deben ser tratados con los proveedores de archivos y servicios. sudo-flix no se hace responsable de los archivos multimedia mostrados por los proveedores de vídeo."
+            "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix no aloja ningún archivo, simplemente enlaza a servicios de terceros. Los problemas legales deben ser tratados con los proveedores de archivos y servicios. 𝓯𝓻𝓮𝓪𝓴𝔂flix no se hace responsable de los archivos multimedia mostrados por los proveedores de vídeo."
         },
         "links": {
             "discord": "Discord",
@@ -92,13 +92,13 @@
         "tagline": "Ve tus series y películas favoritas con esta aplicación de transmisión de código abierto."
     },
     "global": {
-        "name": "sudo-flix",
+        "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
         "pages": {
             "about": "Acerca de",
             "dmca": "DMCA",
             "login": "Iniciar sesión",
             "onboarding": "Configurar",
-            "pagetitle": "{{title}} - sudo-flix",
+            "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
             "register": "Registrarse",
             "settings": "Configuración"
         }
@@ -235,7 +235,7 @@
                     "title": "Proxy personalizado"
                 }
             },
-            "title": "Vamos a configurar sudo-flix"
+            "title": "Vamos a configurar 𝓯𝓻𝓮𝓪𝓴𝔂flix"
         }
     },
     "overlays": {
@@ -252,10 +252,10 @@
         "menus": {
             "downloads": {
                 "copyHlsPlaylist": "Copiar enlace de reproducción HLS",
-                "disclaimer": "Las descargas se realizan directamente desde el proveedor. sudo-flix no tiene control sobre cómo se proporcionan las descargas.",
+                "disclaimer": "Las descargas se realizan directamente desde el proveedor. 𝓯𝓻𝓮𝓪𝓴𝔂flix no tiene control sobre cómo se proporcionan las descargas.",
                 "downloadSubtitle": "Descargar subtítulo actual",
                 "downloadVideo": "Descargar vídeo",
-                "hlsDisclaimer": "Las descargas se realizan directamente del proveedor. sudo-flix no tiene control sobre cómo se proporcionan las descargas. <br /><br />Tenga en cuenta que está descargando una lista de reproducción HLS, <bold>dirigida a usuarios familiarizados con la transmisión multimedia avanzada.</bold> Prueba con diferentes fuentes para diferentes formatos.",
+                "hlsDisclaimer": "Las descargas se realizan directamente del proveedor. 𝓯𝓻𝓮𝓪𝓴𝔂flix no tiene control sobre cómo se proporcionan las descargas. <br /><br />Tenga en cuenta que está descargando una lista de reproducción HLS, <bold>dirigida a usuarios familiarizados con la transmisión multimedia avanzada.</bold> Prueba con diferentes fuentes para diferentes formatos.",
                 "onAndroid": {
                     "1": "Para descargar en Android, haz clic en el botón de descarga y luego, en la nueva página, <bold>mantén presionado</bold> el vídeo y selecciona <bold>guardar</bold>.",
                     "shortTitle": "Descargar / Android",
@@ -400,7 +400,7 @@
             "shortRemaining": "-{{timeLeft}}"
         },
         "turnstile": {
-            "description": "Por favor, confirma que eres humano completando el Captcha. ¡Esto es para mantener sudo-flix seguro!",
+            "description": "Por favor, confirma que eres humano completando el Captcha. ¡Esto es para mantener 𝓯𝓻𝓮𝓪𝓴𝔂flix seguro!",
             "error": "Ha habido un error al verificar tu humanidad. Por favor, prueba de nuevo.",
             "title": "Necesitamos verificar que eres humano.",
             "verifyingHumanity": "Verificando tu hunanidad…"
@@ -408,7 +408,7 @@
     },
     "screens": {
         "dmca": {
-            "text": "¡Bienvenido a la página de contacto DMCA de sudo-flix! Respetamos los derechos de propiedad intelectual y queremos abordar cualquier problema de derechos de autor de manera rápida. Si cree que su trabajo con derechos de autor se ha utilizado incorrectamente en nuestra plataforma, envíe un aviso DMCA detallado al correo electrónico que se muestra a continuación. Incluya una descripción del material con derechos de autor, sus datos de contacto y una declaración de buena fe. Estamos comprometidos a resolver estos asuntos de manera pronta y agradecemos su cooperación para mantener a sudo-flix como un lugar que respeta la creatividad y los derechos de autor.",
+            "text": "¡Bienvenido a la página de contacto DMCA de 𝓯𝓻𝓮𝓪𝓴𝔂flix! Respetamos los derechos de propiedad intelectual y queremos abordar cualquier problema de derechos de autor de manera rápida. Si cree que su trabajo con derechos de autor se ha utilizado incorrectamente en nuestra plataforma, envíe un aviso DMCA detallado al correo electrónico que se muestra a continuación. Incluya una descripción del material con derechos de autor, sus datos de contacto y una declaración de buena fe. Estamos comprometidos a resolver estos asuntos de manera pronta y agradecemos su cooperación para mantener a 𝓯𝓻𝓮𝓪𝓴𝔂flix como un lugar que respeta la creatividad y los derechos de autor.",
             "title": "DMCA"
         },
         "loadingApp": "Cargando la aplicación",

@@ -1,26 +1,26 @@
 {
   "about": {
-    "description": "sudo-flix est une application web qui recherche des flux sur Internet. L'équipe vise une approche minimaliste de la consommation de contenu.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix est une application web qui recherche des flux sur Internet. L'équipe vise une approche minimaliste de la consommation de contenu.",
     "faqTitle": "Questions fréquentes",
     "q1": {
-      "body": "sudo-flix n'héberge aucun contenu. Lorsque vous cliquez sur un élément à regarder, une recherche est effectuée sur Internet pour trouver le média sélectionné (sur l'écran de chargement et dans l'onglet \"sources vidéo\", vous pouvez voir quelle source vous utilisez). Les médias ne sont jamais téléchargés par sudo-flix, tout passe par ce mécanisme de recherche.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix n'héberge aucun contenu. Lorsque vous cliquez sur un élément à regarder, une recherche est effectuée sur Internet pour trouver le média sélectionné (sur l'écran de chargement et dans l'onglet \"sources vidéo\", vous pouvez voir quelle source vous utilisez). Les médias ne sont jamais téléchargés par 𝓯𝓻𝓮𝓪𝓴𝔂flix, tout passe par ce mécanisme de recherche.",
       "title": "D'où vient le contenu ?"
     },
     "q2": {
-      "body": "Il est impossible de demander un film ou une série, car sudo-flix ne gère aucun contenu. Le contenu est récupéré en explorant d'autres sites sur Internet.",
+      "body": "Il est impossible de demander un film ou une série, car 𝓯𝓻𝓮𝓪𝓴𝔂flix ne gère aucun contenu. Le contenu est récupéré en explorant d'autres sites sur Internet.",
       "title": "Où puis-je demander une série ou un film ?"
     },
     "q3": {
       "body": "Nos résultats de recherche sont alimentés par The Movie Database (TMDB) et s'affichent indépendamment de la disponibilité réelle du contenu dans nos sources.",
       "title": "Les résultats de la recherche affichent la série ou le film, pourquoi ne puis-je pas le lire ?"
     },
-    "title": "À propos de sudo-flix",
+    "title": "À propos de 𝓯𝓻𝓮𝓪𝓴𝔂flix",
     "q4": {
       "body": "La synchronisation de toutes les données se fait sur la sudo-backend, qui diffère de la backend de communauté et est hébergé indépendamment par moi. Tout le monde peut également l'utiliser.",
       "title": "Qu'en est-il de mes données ?"
     },
     "q5": {
-      "body": "Sudo-flix possède un compte twitter qui peut être trouvé en bas de cette page ainsi qu'un lien vers le code source sur Github.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix possède un compte twitter qui peut être trouvé en bas de cette page ainsi qu'un lien vers le code source sur Github.",
       "title": "Comment puis-je en savoir plus ?"
     }
   },
@@ -90,7 +90,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Avertissement",
-      "disclaimerText": "sudo-flix ne stocke pas de fichiers, mais propose des liens vers des services externes. Les problèmes juridiques doivent être traités avec les fournisseurs et les hébergeurs de fichiers. Les fichiers multimédias diffusés par les fournisseurs de vidéos ne sont pas couverts par sudo-flix."
+      "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix ne stocke pas de fichiers, mais propose des liens vers des services externes. Les problèmes juridiques doivent être traités avec les fournisseurs et les hébergeurs de fichiers. Les fichiers multimédias diffusés par les fournisseurs de vidéos ne sont pas couverts par 𝓯𝓻𝓮𝓪𝓴𝔂flix."
     },
     "links": {
       "discord": "Discord",
@@ -101,13 +101,13 @@
     "tagline": "Regardez vos séries et films préférés avec cette application de streaming open source."
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
     "pages": {
       "about": "À propos",
       "dmca": "DMCA",
       "login": "Se connecter",
       "onboarding": "Mise en place",
-      "pagetitle": "{{title}} - sudo-flix",
+      "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
       "register": "Créer un compte",
       "settings": "Paramètres",
       "discover": "Découvrir",
@@ -245,7 +245,7 @@
           "title": "Proxy personnalisé"
         }
       },
-      "title": "Commençons par configurer sudo-flix"
+      "title": "Commençons par configurer 𝓯𝓻𝓮𝓪𝓴𝔂flix"
     }
   },
   "overlays": {
@@ -262,10 +262,10 @@
     "menus": {
       "downloads": {
         "copyHlsPlaylist": "Copier le lien de la playlist HLS",
-        "disclaimer": "Les téléchargements sont effectués directement par le fournisseur. sudo-flix n'a aucun contrôle sur la manière dont les téléchargements sont effectués.",
+        "disclaimer": "Les téléchargements sont effectués directement par le fournisseur. 𝓯𝓻𝓮𝓪𝓴𝔂flix n'a aucun contrôle sur la manière dont les téléchargements sont effectués.",
         "downloadSubtitle": "Télécharger les sous-titres",
         "downloadVideo": "Télécharger la vidéo",
-        "hlsDisclaimer": "Les téléchargements sont effectués directement auprès du fournisseur. sudo-flix n'a aucun contrôle sur la façon dont les téléchargements sont fournis.<br /><br />Veuillez noter que vous téléchargez une liste de lecture HLS, <bold>il n'est pas recommandé de la télécharger si vous n'êtes pas familier avec les formats de streaming avancés</bold>. Essayez différentes sources pour différents formats.",
+        "hlsDisclaimer": "Les téléchargements sont effectués directement auprès du fournisseur. 𝓯𝓻𝓮𝓪𝓴𝔂flix n'a aucun contrôle sur la façon dont les téléchargements sont fournis.<br /><br />Veuillez noter que vous téléchargez une liste de lecture HLS, <bold>il n'est pas recommandé de la télécharger si vous n'êtes pas familier avec les formats de streaming avancés</bold>. Essayez différentes sources pour différents formats.",
         "onAndroid": {
           "1": "Pour télécharger sur Android, cliquez sur le bouton de téléchargement, puis, sur la nouvelle page, <bold>tapez et maintenez</bold> sur la vidéo, et sélectionnez <bold>enregistrer</bold>.",
           "shortTitle": "Télécharger / Android",
@@ -394,7 +394,7 @@
         "badge": "Extension désactivée",
         "enableExtension": "Activer l'extension",
         "homeButton": "Revenir à l'accueil",
-        "text": "Vous avez installé l'extension sudo-flix. Pour commencer à l'utiliser, vous devez activer l'extension pour ce site.",
+        "text": "Vous avez installé l'extension 𝓯𝓻𝓮𝓪𝓴𝔂flix. Pour commencer à l'utiliser, vous devez activer l'extension pour ce site.",
         "title": "Veuillez activer l'extension"
       },
       "items": {
@@ -417,7 +417,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Veuillez vérifier que vous êtes bien humain en complétant le Captcha à droite. C'est pour assurer la sécurité de sudo-flix !",
+      "description": "Veuillez vérifier que vous êtes bien humain en complétant le Captcha à droite. C'est pour assurer la sécurité de 𝓯𝓻𝓮𝓪𝓴𝔂flix !",
       "error": "Échec de la vérification de votre humanité. Veuillez réessayer.",
       "title": "Nous devons vérifier que vous êtes un humain.",
       "verifyingHumanity": "Vérification de votre humanité..."
@@ -425,7 +425,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Bienvenue sur la page de contact DMCA de sudo-flix ! Nous respectons les droits de propriété intellectuelle et souhaitons répondre rapidement à toute question relative aux droits d'auteur. Si vous pensez que votre œuvre protégée par des droits d'auteur a été utilisée de manière inappropriée sur notre plateforme, veuillez envoyer une notification DMCA détaillée à l'adresse électronique ci-dessous. Veuillez inclure une description du matériel protégé par des droits d'auteur, vos coordonnées et une déclaration de bonne foi. Nous nous engageons à résoudre ces problèmes rapidement et vous remercions pour votre coopération pour que sudo-flix reste un lieu respectueux de la créativité et des droits d'auteur.",
+      "text": "Bienvenue sur la page de contact DMCA de 𝓯𝓻𝓮𝓪𝓴𝔂flix ! Nous respectons les droits de propriété intellectuelle et souhaitons répondre rapidement à toute question relative aux droits d'auteur. Si vous pensez que votre œuvre protégée par des droits d'auteur a été utilisée de manière inappropriée sur notre plateforme, veuillez envoyer une notification DMCA détaillée à l'adresse électronique ci-dessous. Veuillez inclure une description du matériel protégé par des droits d'auteur, vos coordonnées et une déclaration de bonne foi. Nous nous engageons à résoudre ces problèmes rapidement et vous remercions pour votre coopération pour que 𝓯𝓻𝓮𝓪𝓴𝔂flix reste un lieu respectueux de la créativité et des droits d'auteur.",
       "title": "DMCA"
     },
     "loadingApp": "Chargement de l'application",

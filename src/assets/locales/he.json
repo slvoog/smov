@@ -1,20 +1,20 @@
 {
     "about": {
-        "description": "sudo-flix הוא יישום אינטרנט המחפש באינטרנט אחר זרמים. הצוות שואף לגישה מינימליסטית ברובה לצריכת תוכן.",
+        "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix הוא יישום אינטרנט המחפש באינטרנט אחר זרמים. הצוות שואף לגישה מינימליסטית ברובה לצריכת תוכן.",
         "faqTitle": "שאלות נפוצות",
         "q1": {
-            "body": "sudo-flix אינו מארח תוכן כלשהו. כאשר אתה לוחץ על משהו לצפייה, האינטרנט מחפש את המדיה שנבחרה (במסך הטעינה ובכרטיסייה 'מקורות וידאו' תוכל לראות באיזה מקור אתה משתמש). מדיה אף פעם לא מועלת על ידי sudo-flix, הכל מתבצע דרך מנגנון חיפוש זה.",
+            "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix אינו מארח תוכן כלשהו. כאשר אתה לוחץ על משהו לצפייה, האינטרנט מחפש את המדיה שנבחרה (במסך הטעינה ובכרטיסייה 'מקורות וידאו' תוכל לראות באיזה מקור אתה משתמש). מדיה אף פעם לא מועלת על ידי 𝓯𝓻𝓮𝓪𝓴𝔂flix, הכל מתבצע דרך מנגנון חיפוש זה.",
             "title": "מאיפה התוכן?"
         },
         "q2": {
-            "body": "לא ניתן לבקש תוכנית או סרט, sudo-flix לא מנהלת שום תוכן. כל התוכן נצפה דרך מקורות באינטרנט.",
+            "body": "לא ניתן לבקש תוכנית או סרט, 𝓯𝓻𝓮𝓪𝓴𝔂flix לא מנהלת שום תוכן. כל התוכן נצפה דרך מקורות באינטרנט.",
             "title": "איפה אני יכול לבקש תוכנית או סרט?"
         },
         "q3": {
             "body": "תוצאות החיפוש שלנו מופעלות על ידי The Movie Database (TMDB) ומוצגות ללא קשר אם למקורות שלנו יש את התוכן.",
             "title": "תוצאות החיפוש מציגות את התוכנית או הסרט, למה אני לא יכול להפעיל אותם?"
         },
-        "title": "על sudo-flix"
+        "title": "על 𝓯𝓻𝓮𝓪𝓴𝔂flix"
     },
     "actions": {
         "copied": "הועתק",
@@ -80,7 +80,7 @@
     "footer": {
         "legal": {
             "disclaimer": "תנית ויתור",
-            "disclaimerText": "sudo-flix אינו מארח קבצים, הוא רק מקשר לשירותי צד שלישי. יש להתייחס לסוגיות משפטיות עם המארחים והספקים של הקבצים. sudo-flix אינה אחראית לכל קבצי מדיה המוצגים על ידי ספקי הווידאו."
+            "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix אינו מארח קבצים, הוא רק מקשר לשירותי צד שלישי. יש להתייחס לסוגיות משפטיות עם המארחים והספקים של הקבצים. 𝓯𝓻𝓮𝓪𝓴𝔂flix אינה אחראית לכל קבצי מדיה המוצגים על ידי ספקי הווידאו."
         },
         "links": {
             "discord": "דיסקורד",
@@ -90,13 +90,13 @@
         "tagline": "צפה בתוכניות ובסרטים האהובים עליך עם אפליקציית סטרימינג זו בקוד פתוח."
     },
     "global": {
-        "name": "sudo-flix",
+        "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
         "pages": {
             "about": "אודות",
             "dmca": "זכויות יוצרים",
             "login": "התחבר",
             "onboarding": "הכנה",
-            "pagetitle": "{{title}} - sudo-flix",
+            "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
             "register": "הירשם",
             "settings": "הגדרות"
         }
@@ -227,7 +227,7 @@
                     "title": "פרוקסי מותאם אישית"
                 }
             },
-            "title": "בוא נעשה לך התקנה עם sudo-flix"
+            "title": "בוא נעשה לך התקנה עם 𝓯𝓻𝓮𝓪𝓴𝔂flix"
         }
     },
     "overlays": {
@@ -243,10 +243,10 @@
         },
         "menus": {
             "downloads": {
-                "disclaimer": "ההורדות נלקחות ישירות מהספק. ל-sudo-flix אין שליטה על האופן שבו מסופקות ההורדות.",
+                "disclaimer": "ההורדות נלקחות ישירות מהספק. ל-𝓯𝓻𝓮𝓪𝓴𝔂flix אין שליטה על האופן שבו מסופקות ההורדות.",
                 "downloadSubtitle": "הורד את הכתוביות הנוכחיות",
                 "downloadVideo": "הורד וידאו",
-                "hlsDisclaimer": "ההורדות נלקחות ישירות מהספק. ל-sudo-flix אין שליטה על האופן שבו מסופקות ההורדות.<br /><br />שים לב שאתה מוריד רשימת השמעה של HLS, <bold>לא מומלץ להוריד אם אינך מכיר פורמטים מתקדמים של סטרימינג </bold>. נסה מקורות שונים עבור פורמטים שונים.",
+                "hlsDisclaimer": "ההורדות נלקחות ישירות מהספק. ל-𝓯𝓻𝓮𝓪𝓴𝔂flix אין שליטה על האופן שבו מסופקות ההורדות.<br /><br />שים לב שאתה מוריד רשימת השמעה של HLS, <bold>לא מומלץ להוריד אם אינך מכיר פורמטים מתקדמים של סטרימינג </bold>. נסה מקורות שונים עבור פורמטים שונים.",
                 "onAndroid": {
                     "1": "כדי להוריד באנדרואיד, לחץ על כפתור ההורדה ולאחר מכן, בדף החדש, <bold>הקש והחזק</bold> על הסרטון, ולאחר מכן בחר <bold>שמור</bold>.",
                     "shortTitle": "הורדה / אנדרויד",
@@ -389,7 +389,7 @@
             "shortRemaining": "-{{timeLeft}}"
         },
         "turnstile": {
-            "description": "אנא ודא שאתה אנושי על ידי מילוי ה-Captcha בצד ימין. זה כדי לשמור על sudo-flix!",
+            "description": "אנא ודא שאתה אנושי על ידי מילוי ה-Captcha בצד ימין. זה כדי לשמור על 𝓯𝓻𝓮𝓪𝓴𝔂flix!",
             "error": "נכשל אימות האנושיות שלך. בבקשה נסה שוב.",
             "title": "אנחנו צריכים לאמת שאתה אנושי.",
             "verifyingHumanity": "מאמת את האנושיות שלך..."
@@ -397,7 +397,7 @@
     },
     "screens": {
         "dmca": {
-            "text": "ברוכה הבאה לדף יצירת קשר DMCA של sudo-flix! אנו מכבדים את זכויות הקניין הרוחני ורוצים לטפל בכל חשש לזכויות יוצרים במהירות. אם אתה סבור שהעבודה שלך המוגנת בזכויות יוצרים נוצלה בצורה לא נכונה בפלטפורמה שלנו, אנא שלח הודעת DMCA מפורטת למייל למטה. אנא כלול תיאור של החומר המוגן בזכויות יוצרים, פרטי ההתקשרות שלך והצהרת תום לב. אנו מחויבים לפתור את העניינים הללו באופן מיידי ומעריכים את שיתוף הפעולה שלך בשמירה על sudo-flix מקום שמכבד יצירתיות וזכויות יוצרים.",
+            "text": "ברוכה הבאה לדף יצירת קשר DMCA של 𝓯𝓻𝓮𝓪𝓴𝔂flix! אנו מכבדים את זכויות הקניין הרוחני ורוצים לטפל בכל חשש לזכויות יוצרים במהירות. אם אתה סבור שהעבודה שלך המוגנת בזכויות יוצרים נוצלה בצורה לא נכונה בפלטפורמה שלנו, אנא שלח הודעת DMCA מפורטת למייל למטה. אנא כלול תיאור של החומר המוגן בזכויות יוצרים, פרטי ההתקשרות שלך והצהרת תום לב. אנו מחויבים לפתור את העניינים הללו באופן מיידי ומעריכים את שיתוף הפעולה שלך בשמירה על 𝓯𝓻𝓮𝓪𝓴𝔂flix מקום שמכבד יצירתיות וזכויות יוצרים.",
             "title": "זכויות יוצרים"
         },
         "loadingApp": "טוען את האפליקציה",

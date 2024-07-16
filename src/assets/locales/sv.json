@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "sudo-flix är en webbapplikation som söker efter strömmar på internet. Teamet strävar efter en mestadels minimalistisk ansats för att konsumera innehåll.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix är en webbapplikation som söker efter strömmar på internet. Teamet strävar efter en mestadels minimalistisk ansats för att konsumera innehåll.",
     "faqTitle": "Vanliga frågor",
     "q1": {
-      "body": "sudo-flix hostar ingen innehåll. När du klickar på något att titta på, söks internet efter det valda mediet (På laddningsskärmen och i fliken 'Videokällor' kan du se vilken källa du använder). Inget medium laddas upp av sudo-flix, allt sker genom sökmotorn.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix hostar ingen innehåll. När du klickar på något att titta på, söks internet efter det valda mediet (På laddningsskärmen och i fliken 'Videokällor' kan du se vilken källa du använder). Inget medium laddas upp av 𝓯𝓻𝓮𝓪𝓴𝔂flix, allt sker genom sökmotorn.",
       "title": "Var kommer innehållet ifrån?"
     },
     "q2": {
-      "body": "Det går inte att begära en show eller film, sudo-flix hanterar inte något innehåll. Allt innehåll visas genom källor på internet.",
+      "body": "Det går inte att begära en show eller film, 𝓯𝓻𝓮𝓪𝓴𝔂flix hanterar inte något innehåll. Allt innehåll visas genom källor på internet.",
       "title": "Var kan jag begära en show eller film?"
     },
     "q3": {
       "body": "Våra sökresultat drivs av The Movie Database (TMDB) och visas oavsett om våra källor faktiskt har innehållet.",
       "title": "Sökresultaten visar showen eller filmen, varför kan jag inte spela upp den?"
     },
-    "title": "Om sudo-flix"
+    "title": "Om 𝓯𝓻𝓮𝓪𝓴𝔂flix"
   },
   "actions": {
     "copied": "Kopierad",
@@ -79,7 +79,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Friskriver sig från ansvar",
-      "disclaimerText": "sudo-flix hostar inga filer utan länkar endast till filer från tredje part. Eventuella juridiska frågor bör tas upp med källorna till materialet. sudo-flix varken ansvarar eller styr över de mediefiler som visas."
+      "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix hostar inga filer utan länkar endast till filer från tredje part. Eventuella juridiska frågor bör tas upp med källorna till materialet. 𝓯𝓻𝓮𝓪𝓴𝔂flix varken ansvarar eller styr över de mediefiler som visas."
     },
     "links": {
       "discord": "Discord",
@@ -89,12 +89,12 @@
     "tagline": "Titta på dina favoritprogram och filmer helt gratis."
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
     "pages": {
       "about": "Om oss",
       "dmca": "DMCA",
       "login": "Logga in",
-      "pagetitle": "{{title}} - sudo-flix",
+      "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
       "register": "Registrera",
       "settings": "Inställningar"
     }
@@ -172,7 +172,7 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Nedladdningar görs direkt från leverantören. sudo-flix har ingen kontroll över hur nedladdningarna tillhandahålls.",
+        "disclaimer": "Nedladdningar görs direkt från leverantören. 𝓯𝓻𝓮𝓪𝓴𝔂flix har ingen kontroll över hur nedladdningarna tillhandahålls.",
         "downloadVideo": "Ladda ner video",
         "onAndroid": {
           "1": "För att ladda ner på Android, klicka på nedladdningsknappen och på den nya sidan <bold>trycker och håller</bold> på videon, välj sedan <bold>spara</bold>.",
@@ -288,7 +288,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Välkommen till sudo-flixs DMCA-kontaktsida! Vi respekterar immateriella rättigheter och vill snabbt hantera eventuella upphovsrättsliga bekymmer. Om du tror att ditt upphovsrättsskyddade verk har använts felaktigt på vår plattform, skicka gärna en detaljerad DMCA-notis till e-postadressen nedan. Inkludera en beskrivning av det upphovsrättsskyddade materialet, dina kontaktuppgifter och en tro på god tro. Vi åtar oss att lösa dessa frågor snabbt och uppskattar ditt samarbete för att hålla sudo-flix som en plats som respekterar kreativitet och upphovsrätt.",
+      "text": "Välkommen till 𝓯𝓻𝓮𝓪𝓴𝔂flixs DMCA-kontaktsida! Vi respekterar immateriella rättigheter och vill snabbt hantera eventuella upphovsrättsliga bekymmer. Om du tror att ditt upphovsrättsskyddade verk har använts felaktigt på vår plattform, skicka gärna en detaljerad DMCA-notis till e-postadressen nedan. Inkludera en beskrivning av det upphovsrättsskyddade materialet, dina kontaktuppgifter och en tro på god tro. Vi åtar oss att lösa dessa frågor snabbt och uppskattar ditt samarbete för att hålla 𝓯𝓻𝓮𝓪𝓴𝔂flix som en plats som respekterar kreativitet och upphovsrätt.",
       "title": "DMCA"
     },
     "loadingApp": "Laddar applikationen",

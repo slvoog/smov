@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "sudo-flix on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
     "faqTitle": "Yleisiä kysymyksiä",
     "q1": {
-      "body": "sudo-flix ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). sudo-flix ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). 𝓯𝓻𝓮𝓪𝓴𝔂flix ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
       "title": "Mistä sisältö tulee?"
     },
     "q2": {
-      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, sudo-flix ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
+      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, 𝓯𝓻𝓮𝓪𝓴𝔂flix ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
       "title": "Missä voin pyytää sarjaa tai elokuvaa?"
     },
     "q3": {
       "body": "Hakutuloksemme perustuvat The Movie Database (TMDB) -tietokantaan, ja ne näkyvät riippumatta siitä, onko sisältöä oikeasti lähteissämme.",
       "title": "Hakutuloksissa näytetään ohjelma tai elokuva. Miksi en voi toistaa sitä?"
     },
-    "title": "Tietoja sudo-flixistä"
+    "title": "Tietoja 𝓯𝓻𝓮𝓪𝓴𝔂flixistä"
   },
   "actions": {
     "copied": "Kopioitu",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Vastuuvapauslauseke",
-      "disclaimerText": "sudo-flix ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. sudo-flix ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
+      "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. 𝓯𝓻𝓮𝓪𝓴𝔂flix ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
     },
     "links": {
       "discord": "Discord",
@@ -90,13 +90,13 @@
     "tagline": "Katso suosikkiohjelmiasi ja elokuviasi tällä avoimen lähdekoodin suoratoistosovelluksella."
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
     "pages": {
       "about": "Meistä",
       "dmca": "DMCA",
       "login": "Kirjaudu sisään",
       "onboarding": "asetus",
-      "pagetitle": "{{title}} - sudo-flix",
+      "pagetitle": "{{title}} - 𝓯𝓻𝓮𝓪𝓴𝔂flix",
       "register": "Rekisteröidy",
       "settings": "Asetukset"
     }

@@ -1,9 +1,9 @@
 {
   "about": {
-    "description": "sudo-flix ir tīmekļa lietojumprogramma, kas internetā meklē straumes. Komandas mērķis ir galvenokārt minimālistiska pieeja satura patērēšanai.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix ir tīmekļa lietojumprogramma, kas internetā meklē straumes. Komandas mērķis ir galvenokārt minimālistiska pieeja satura patērēšanai.",
     "faqTitle": "Bieži jautājumi",
     "q1": {
-      "body": "sudo-flix neveic nekādu saturu. Noklikšķinot uz kāda skatāma satura, internetā tiek meklēts atlasītais multivides saturs (ielādes ekrānā un cilnē “video avoti” varat redzēt, kuru avotu izmantojat). Multivide nekad netiek augšupielādēta, izmantojot filmu tīmekli, viss notiek caur šo meklēšanas mehānismu.",
+      "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix neveic nekādu saturu. Noklikšķinot uz kāda skatāma satura, internetā tiek meklēts atlasītais multivides saturs (ielādes ekrānā un cilnē “video avoti” varat redzēt, kuru avotu izmantojat). Multivide nekad netiek augšupielādēta, izmantojot filmu tīmekli, viss notiek caur šo meklēšanas mehānismu.",
       "title": "No kurienes nāk saturs?"
     },
     "q2": {
@@ -79,7 +79,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Atruna",
-      "disclaimerText": "sudo-flix nemitina nekādus failus, tas tikai veido saites uz trešās puses pakalpojumiem. Juridiskie jautājumi ir jārisina ar failu resursdatoriem un nodrošinātājiem. sudo-flix nav atbildīgs par video pakalpojumu sniedzēju parādītajiem multivides failiem."
+      "disclaimerText": "𝓯𝓻𝓮𝓪𝓴𝔂flix nemitina nekādus failus, tas tikai veido saites uz trešās puses pakalpojumiem. Juridiskie jautājumi ir jārisina ar failu resursdatoriem un nodrošinātājiem. 𝓯𝓻𝓮𝓪𝓴𝔂flix nav atbildīgs par video pakalpojumu sniedzēju parādītajiem multivides failiem."
     },
     "links": {
       "discord": "Discord",
@@ -172,7 +172,7 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Lejupielādes tiek ņemtas tieši no pakalpojumu sniedzēja. sudo-flix nevar kontrolēt, kā tiek nodrošinātas lejupielādes.",
+        "disclaimer": "Lejupielādes tiek ņemtas tieši no pakalpojumu sniedzēja. 𝓯𝓻𝓮𝓪𝓴𝔂flix nevar kontrolēt, kā tiek nodrošinātas lejupielādes.",
         "downloadVideo": "Lejupielādēt video",
         "onAndroid": {
           "1": "Lai lejupielādētu operētājsistēmā Android, noklikšķiniet uz lejupielādes pogas, pēc tam jaunajā lapā <bold>pieskarieties videoklipam un turiet to</bold>, pēc tam atlasiet <bold>saglabāt</bold>.",
