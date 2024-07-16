@@ -104,11 +104,6 @@ export function SupportPage() {
         </Paragraph>
         <Ol
           items={[
-            <Item title={t("support.q1.title")}>
-              <Trans i18nKey="support.q1.body">
-
-              </Trans>
-            </Item>,
             <Item title={t("support.q2.title")}>
               <Trans i18nKey="support.q2.body">
                 <MwLink to="https://github.com/slvoog/smov" />
