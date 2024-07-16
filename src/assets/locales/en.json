@@ -139,8 +139,7 @@
           "What's on your watchlist today?",
           "How was your day?",
           "My bad the site never works...",
-          "Isn't 𝓯𝓻𝓮𝓪𝓴𝔂flix just the best?",
-          ">ᴗ<"
+          "Isn't 𝓯𝓻𝓮𝓪𝓴𝔂flix just the best?"
         ]
       },
       "empty": {
@@ -158,30 +157,30 @@
     },
     "titles": {
       "day": {
-        "default": "What would you like to watch? 👅",
-        "extra": ["Have you seen? Are you ok?"],
+        "default": "What would you like to skibidi? 👅",
+        "extra": ["Have you edged? Are you mogging?"],
         "extra": ["Welcome 😛 to 𝓯𝓻𝓮𝓪𝓴𝔂flix!"],
         "extra": ["👅"],
         "extra": ["𝓯𝓻𝓮𝓪𝓴𝔂flix"]
       },
       "morning": {
-        "default": "What would you like to watch this morning?",
-        "extra": ["Can't go wrong with Friends"],
-        "extra": ["I hear The Expanse is popular! Whats The Expanse??"],
-        "extra": ["\"૮₍  ˶•⤙•˶ ₎ა"],
+        "default": "What gyatt would you like to goon this morning?",
+        "extra": ["Have you broken your 142 day edging streak?"],
+        "extra": ["I hear The Gyatt is popular! I edge to that show."],
+        "extra": ["Have you mewed today?"],
         "extra": ["𝓯𝓻𝓮𝓪𝓴𝔂flix"]
       },
       "night": {
-        "default": "What would you like to watch tonight?",
-        "extra": ["Rick & Morty is great with friends! nope."],
-        "extra": ["Go and watch The Simpsons, or don't, I don't care."],
-        "extra": ["👅"],
+        "default": "What would you like to mew tonight?",
+        "extra": ["Rick & Morty is so sigma."],
+        "extra": ["Erm what the sigma...☝️🤓"],
+        "extra": ["Watch the TikTok Rizz Party live!!!"],
         "extra": ["𝓯𝓻𝓮𝓪𝓴𝔂flix"]
       }
     }
   },
   "media": {
-    "episodeDisplay": "S{{season}} - E{{episode}}",
+    "episodeDisplay": "S{{season}} E{{episode}}",
     "unreleased": "Unreleased",
     "types": {
       "movie": "Movie",
@@ -190,12 +189,12 @@
   },
   "navigation": {
     "banner": {
-      "offline": "Check your internet connection, silly goose! 🦢"
+      "offline": "Check your internet connection, idiot."
     },
     "menu": {
       "about": "About us",
       "logout": "Log out",
-      "register": "Sync to sudo-cloud",
+      "register": "Sync to the cloud",
       "settings": "Settings",
       "support": "Support",
       "discover": "Discover"
