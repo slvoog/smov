@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. 𝓯𝓻𝓮𝓪𝓴𝔂flix.lol runs on something ig. I do not run this site at a loss.",
+    "description": "𝓯𝓻𝓮𝓪𝓴𝔂flix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. 𝓯𝓻𝓮𝓪𝓴𝔂flix runs on something ig. I do not run this site at a loss.",
     "faqTitle": "Common questions",
     "q1": {
       "body": "𝓯𝓻𝓮𝓪𝓴𝔂flix does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by 𝓯𝓻𝓮𝓪𝓴𝔂flix, everything is through this searching mechanism.",
@@ -22,7 +22,7 @@
       "body": "Well 𝓯𝓻𝓮𝓪𝓴𝔂flix does not have a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
       "title": "How can I find out more?"
     },
-    "title": "About 𝓯𝓻𝓮𝓪𝓴𝔂flix (^▽^)"
+    "title": "About 𝓯𝓻𝓮𝓪𝓴𝔂flix"
   },
   "actions": {
     "copied": "Copied",
@@ -89,8 +89,8 @@
   },
   "footer": {
     "legal": {
-      "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-      "disclaimerText": "Please note: 𝓯𝓻𝓮𝓪𝓴𝔂flix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+      "disclaimer": "Disclaimer",
+      "disclaimerText": "Please note: Freakyflix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
     },
     "links": {
       "discord": "Discord",
@@ -98,7 +98,7 @@
       "github": "GitHub",
       "twitter": "Twitter"
     },
-    "tagline": "Watch stuff."
+    "tagline": "Watch stuff, any stuff."
   },
   "global": {
     "name": "𝓯𝓻𝓮𝓪𝓴𝔂flix",
@@ -143,17 +143,17 @@
         ]
       },
       "empty": {
-        "default": "Welcome, find media to watch here!",
+        "default": "Watch what everyone's watching now",
         "extra": [
-          "There's nothing here :(",
+          "What will you watch..?",
           "So empty...",
-          "Such emptiness.",
-          "Hi new user :3"
+          "WATCH WATCH WATCH",
+          "Find anything you like?"
         ]
       },
       "sectionTitle": "Search results",
       "discoverMore": "Discover more",
-      "discover": "Discover"
+      "discover": "Discover new content"
     },
     "titles": {
       "day": {
@@ -314,7 +314,7 @@
       },
       "episodes": {
         "button": "Episodes",
-        "emptyState": "There are no episodes in this season, check back later (sorry :3)...",
+        "emptyState": "There are no episodes in this season, check back later...",
         "episodeBadge": "E{{episode}}",
         "loadingError": "Error loading season",
         "loadingList": "Loading...",
@@ -543,7 +543,7 @@
         "gray": "Gray",
         "red": "Red",
         "teal": "Teal",
-        "blck": "BLCK"
+        "blck": "Space"
       },
       "title": "Appearance"
     },
@@ -609,7 +609,7 @@
         "insecure": "Insecure",
         "notLoggedIn": "You are not logged in",
         "secure": "Secure",
-        "title": "App stats (for nerds) 🤓",
+        "title": "App stats",
         "unknownVersion": "Unknown",
         "userId": "User ID"
       }
@@ -618,7 +618,7 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "Would you rather have a thot daughter or a gay son? 🤔",
+      "previewQuote": "I'm gonna make him an offer he can't refuse.",
       "textSizeLabel": "Text size",
       "title": "Subtitles",
       "textBoldLabel": "Bold text"

@@ -156,12 +156,12 @@ function ParticlesCanvas() {
       case month === 11 && day >= 24 && day <= 26:
         imageOverride = [
           {
-            image: "/lightbar-images/snowflake.svg",
-            sizeRange: [12, 20] as [number, number],
+            image: "/lightbar-images/snowflake.png",
+            sizeRange: [8, 18] as [number, number],
           },
           {
             image: "/lightbar-images/santa.png",
-            sizeRange: [25, 35] as [number, number],
+            sizeRange: [8, 18] as [number, number],
           },
         ];
         imageParticleCount = particleCount * 0.1;
@@ -171,11 +171,11 @@ function ParticlesCanvas() {
         imageOverride = [
           {
             image: "/lightbar-images/ghost.png",
-            sizeRange: [20, 33] as [number, number],
+            sizeRange: [8, 18] as [number, number],
           },
           {
             image: "/lightbar-images/pumpkin.png",
-            sizeRange: [25, 35] as [number, number],
+            sizeRange: [8, 18] as [number, number],
           },
         ];
         imageParticleCount = particleCount * 0.0879;
@@ -185,7 +185,11 @@ function ParticlesCanvas() {
         imageOverride = [
           {
             image: "/lightbar-images/star.png",
-            sizeRange: [18, 28] as [number, number],
+            sizeRange: [8, 18] as [number, number],
+          },
+          {
+            image: "/lightbar-images/popcorn.png",
+            sizeRange: [8, 18] as [number, number],
           },
         ];
         imageParticleCount = particleCount / 6.6;

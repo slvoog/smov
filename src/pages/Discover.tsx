@@ -365,24 +365,27 @@ export function Discover() {
                 className="text-center relative mt-3 mx-[0.285em] mb-3 transition-transform hover:scale-105 duration-[0.45s]"
                 style={{ flex: `0 0 ${movieWidth}` }} // Set a fixed width for each movie
               >
-                <Flare.Base className="group cursor-pointer rounded-xl relative p-[0.65em] bg-background-main transition-colors duration-300 bg-transparent">
+                <Flare.Base className="group cursor-pointer rounded-xl relative p-2 bg-background-main transition-colors duration-300 bg-transparent">
                   <Flare.Light
                     flareSize={300}
                     cssColorVar="--colors-mediaCard-hoverAccent"
                     backgroundClass="bg-mediaCard-hoverBackground duration-200"
                     className="rounded-xl bg-background-main group-hover:opacity-100"
                   />
-                  <img
-                    src={
-                      media.poster_path
-                        ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
-                        : "/placeholder.png"
-                    }
-                    alt={media.poster_path ? "" : "failed to fetch :("}
-                    loading="lazy"
-                    className="rounded-xl relative"
-                  />
-                  <h1 className="group relative pt-2 text-[13.5px] whitespace-normal duration-[0.35s] font-semibold text-white opacity-0 group-hover:opacity-100">
+                  <div className="relative">
+                    <img
+                      src={
+                        media.poster_path
+                          ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
+                          : "/placeholder.png"
+                      }
+                      alt={media.poster_path ? "" : "failed to fetch :("}
+                      loading="lazy"
+                      className="rounded-lg"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent transition-opacity opacity-0 duration-300 group-hover:opacity-100 rounded-lg" />
+                  </div>
+                  <h1 className="absolute bottom-4 left-2 right-2 mx-1 whitespace-normal duration-[0.35s] text-lg font-semibold text-white opacity-0 group-hover:opacity-100 overflow-ellipsis">
                     {isTVShow
                       ? (media.name?.length ?? 0) > 32
                         ? `${media.name?.slice(0, 32)}...`
@@ -487,7 +490,7 @@ export function Discover() {
         <PageTitle subpage k="global.pages.discover" />
         <div className="mt-44 space-y-16 text-center">
           <div className="relative z-10 mb-16">
-            <h1 className="text-4xl cursor-default font-bold text-white">
+            <h1 className="text-6xl cursor-default font-bold text-white">
               {t("global.pages.discover")}
             </h1>
           </div>
@@ -511,14 +514,14 @@ export function Discover() {
                 </div>
               ) : (
                 <div className="flex items-center inline-block">
-                  <span>Watch Something New</span>
                   <img
                     src="/lightbar-images/dice.svg"
                     alt="Small Image"
                     style={{
-                      marginLeft: "8px",
+                      marginRight: "8px",
                     }}
                   />
+                  <span>Can&apos;t Choose?</span>
                 </div>
               )}
             </span>

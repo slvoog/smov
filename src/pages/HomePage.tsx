@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet-async";
 import { useTranslation } from "react-i18next";
 import { To, useNavigate } from "react-router-dom";
 
+import { Icon, Icons } from "@/components/Icon";
 import { WideContainer } from "@/components/layout/WideContainer";
 import { useDebounce } from "@/hooks/useDebounce";
 import { useRandomTranslation } from "@/hooks/useRandomTranslation";
@@ -81,9 +82,10 @@ export function HomePage() {
               <div className="flex flex-col items-center justify-center">
                 <p className="text-[18.5px] pb-3">{emptyText}</p>
                 <Button
-                  className="px-py p-[0.35em] mt-3 rounded-xl text-type-dimmed box-content text-[18px] bg-largeCard-background text-buttons-secondaryText justify-center items-center"
+                  className="px-py mt-3 rounded-xl text-white flex w-fit p-4 py-6 gap-2 text-[20px] bg-largeCard-background text-buttons-secondaryText justify-center items-center"
                   onClick={() => handleClick("/discover")}
                 >
+                  <Icon icon={Icons.RISING_STAR} />
                   {t("home.search.discover")}
                 </Button>
               </div>

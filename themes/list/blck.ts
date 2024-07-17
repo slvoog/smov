@@ -76,7 +76,7 @@ export default createTheme({
     colors: {
       themePreview: {
         primary: tokens.black.c80,
-        secondary: tokens.black.c100
+        secondary: tokens.black.c100,
       },
 
       pill: {
@@ -231,7 +231,7 @@ export default createTheme({
 
         autoPlay: {
           background: tokens.ash.c800,
-          hover: tokens.ash.c600 
+          hover: tokens.ash.c600
         },
 
         scraping: {
